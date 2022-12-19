@@ -1,0 +1,10 @@
+model_file: model-cuda
+output_dict:
+  anger: 0
+  fear: 2
+  joy: 3
+  love: 5
+  sadness: 1
+  surprise: 4
+tokenizer_file: tokenizer.pkl
+max_seq_len: 500
